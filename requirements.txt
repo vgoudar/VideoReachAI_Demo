@@ -1,0 +1,27 @@
+# Core web app
+streamlit==1.37.1
+
+# LLM client and HTTP dependencies
+# Use older, proven-stable versions that work with PyInstaller
+anthropic==0.26.0
+httpx==0.24.1
+httpcore==0.17.3
+h11==0.14.0
+certifi==2024.2.2
+anyio==3.7.1
+sniffio==1.3.0
+
+# Config / environment
+python-dotenv==1.0.1
+
+# File handling and HTTP
+PyPDF2==3.0.1
+requests==2.32.3
+
+# Numerics
+numpy==1.26.4
+
+# Streamlit dependencies (for PyInstaller)
+validators>=0.18.2
+altair>=4.0.0
+pillow>=9.0.0

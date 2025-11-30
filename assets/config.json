@@ -1,0 +1,9 @@
+{
+  "voice_id": "l8sVWnz4sShlHLcUkXAq",
+  "model_id": "eleven_multilingual_v2",
+  "stability": 0.3,
+  "similarity_boost": 0.8,
+  "style": 0.0,
+  "speed": 0.9,
+  "use_speaker_boost": true
+}
